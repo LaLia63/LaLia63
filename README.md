@@ -1,4 +1,4 @@
-# Hi, I'm Hsu Yati Zaw
+# Hi, I'm Hsu Yati Zaw 👋
 
 ### Full Stack Developer | UI/UX Designer
 
