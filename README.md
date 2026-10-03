@@ -6,7 +6,7 @@ I am a developer and designer focused on building practical, user-centered digit
 
 ## About Me
 
-* Currently developing my skills in full-stack web development and software engineering
+* Developing my skills in full-stack web development and software engineering
 * Interested in web applications, UI/UX design, databases, software development and graphic design
 * Experienced in building responsive interfaces and implementing application functionality
 * Open to opportunities, collaboration, and professional growth
@@ -26,11 +26,11 @@ I am a developer and designer focused on building practical, user-centered digit
 ## Featured Projects
 
 ### Café Midori
-
+[Café Midori](https://cafemidori.infinityfreeapp.com)
 A responsive café web application developed from concept to deployment, including UI/UX design, frontend development, backend functionality, database integration, testing, and deployment.
 
 ### AI Study & Language Learning Consultant
-
+[AI Language Learning Consultant](https://dizio-ai.vercel.app)
 An AI-powered study and language learning application built with TypeScript, Supabase, Gemini API, and Google Login.
 
 ## Currently Learning
