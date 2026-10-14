@@ -1,16 +1,17 @@
+![Hsu Yati Zaw Banner]([https://url](https://github.com/LaLia63/LaLia63/blob/main/HSUYATIZAW_Banner.jpg))
 <h1 align="center">Hi 👋, I'm Hsu Yati Zaw</h1>
 <h3 align="center">I am a developer and designer focused on building practical, user-centered digital experiences. I enjoy combining software development with UI/UX and visual design to create applications that are functional, responsive, and easy to use.</h3>
 <p align="left"> <a href="https://twitter.com/hsuyatizaw" target="blank"><img src="https://img.shields.io/twitter/follow/hsuyatizaw?logo=twitter&style=for-the-badge" alt="hsuyatizaw" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LaLia63](https://github.com/LaLia63)
+- 👨‍💻 All of my projects are available at [Hsu Yati Zaw](https://github.com/LaLia63)
 
 - 💬 Ask me about **react, PHP**
 
 - 📫 How to reach me **lia.thedev@gmail.com**
 
-- 📄 Know about my experiences [https://hsu-yati-zaw-portfoilio.vercel.app](https://hsu-yati-zaw-portfoilio.vercel.app)
+- 📄 Know about my experiences [Hsu Yati Zaw](https://hsu-yati-zaw-portfoilio.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
