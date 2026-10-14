@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hsu Yati Zaw</h1>
 <h3 align="center">I am a developer and designer focused on building practical, user-centered digital experiences. I enjoy combining software development with UI/UX and visual design to create applications that are functional, responsive, and easy to use.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalia63&label=Profile%20views&color=0e75b6&style=flat" alt="lalia63" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalia63" alt="lalia63" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hsuyatizaw" target="blank"><img src="https://img.shields.io/twitter/follow/hsuyatizaw?logo=twitter&style=for-the-badge" alt="hsuyatizaw" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
