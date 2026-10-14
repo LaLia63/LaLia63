@@ -1,6 +1,6 @@
 ![Hsu Yati Zaw Banner](https://github.com/LaLia63/LaLia63/blob/main/HSUYATIZAW_Banner.jpg)
 
-<h1 align="center">Hi, I'm Hsu Yati Zaw</h1>
+<h1 align="center">Hi 👋, I'm Hsu Yati Zaw</h1>
 
 <h3 align="center">Full Stack Developer | UI/UX Designer</h3>
 
